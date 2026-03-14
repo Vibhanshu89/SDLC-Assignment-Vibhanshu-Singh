@@ -1,4 +1,4 @@
-# SDLC-Assignment-[YourName]
+# SDLC-Assignment-Vibhanshu Singh
 ## Smart-Attend — Student Attendance App
 ### Course: SDLC & DevOps Fundamentals | Role: Junior Project Manager
 
@@ -169,7 +169,5 @@ Key deliverables:
 - **CI/CD:** GitHub Actions + Firebase App Distribution
 - **Testing:** Jest + Detox (E2E)
 
----
-
 *Assignment Submission — SDLC & DevOps Fundamentals*
-*Deadline: 14 March 2026*
+*Student: Vibhanshu Singh | REG NO. 12314921 | Deadline: 14 March 2026*
